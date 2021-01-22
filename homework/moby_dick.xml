@@ -2,10 +2,14 @@
 <book>
 	<metadata>
 		<title>Moby-Dick, or, The Whale</title>
-		<author viaf="27068555"><name><givenName>Herman</givenName><surname>Melville</surname></name>
+		<author viaf="27068555"><name><givenName>Herman</givenName><surName>Melville</surName></name>
 			<birth date="1819-08-01">August 1, 1819</birth>
 			<death date="1891-09-28">September 28, 1891</death>
 		</author>
+		<encoder>
+			<name><givenName>Alex</givenName><surName>Wingate</surName></name>
+			<institution>Indiana University Bloomington</institution>
+		</encoder>
 	</metadata>
 	<text>
 		<ch n="1">CHAPTER I.
