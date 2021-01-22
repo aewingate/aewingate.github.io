@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+	<keyInfo>
+		<title>Apple Frangipane Tart</title>
+		<dish course="dessert">tart</dish>
+		<keyIngredient>apple</keyIngredient>
+		<keyIngredient>frangipane</keyIngredient>
+	</keyInfo>
+	<ingredientList>	
+		<ing>
+			<quant>
+				<num exact="0.75">3/4</num><unit type="cup">cup</unit>
+			</quant>
+			<item>almond meal</item>
+		</ing>	
+		<ing>
+			<quant>
+				<num exact="1.5">1 1/2</num><unit type="tbsp">tbsp</unit>
+			</quant>
+			<item>plain flour</item>
+		</ing>
+		<ing>
+			<quant>
+				<num exact="5">5</num><unit type="tbsp">tbsp</unit>
+			</quant>
+			<item>sugar</item>
+			<state>divided, 1/4 cup (4 tbsp) and 1 tbsp</state>
+		</ing>
+		<ing>
+			<quant>
+				<num exact="50">50</num><unit type="g">grams</unit>
+			</quant>
+			<item>unsalted butter</item>
+		</ing>	
+		<ing>
+			<quant>
+				<num exact="1">1</num>
+			</quant>
+			<item>large egg</item></ing>	
+		<ing>
+			<quant>
+				<num exact="0.5">1/2</num><unit type="tsp">tsp</unit>
+			</quant>
+			<item>vanilla extract</item>
+		</ing>	
+		<ing>
+			<quant>
+				<num exact="2">2</num><unit>sheets</unit>
+			</quant>
+			<item>puff pastry</item>
+		</ing>	
+		<ing>
+			<quant>
+				<num min="2" max="3">2 to 3</num>
+			</quant>
+			<item>apples</item>
+			<state>sliced</state>
+		</ing>	
+		<ing>
+			<item>butter</item>
+			<state>melted</state>
+		</ing>
+		<ing type="optional">
+			<item>honey</item>
+		</ing>
+		<ing type="optional">
+			<item>heavy cream</item>
+		</ing>
+	</ingredientList>
+	<instructionList>
+		<step n="1">Preheat oven to <temperature n="200" unit="celsius">200 degrees C</temperature>. Place the pastry on a lined oven tray to thaw. Cut 1 sheet into 4 squares and prick all over with a fork to stop it puffing up too much and other one I choose to have it as a round circle.</step>
+		<step n="2">For frangipane filling, cream the sugar and butter together until light. Add egg and mix to combine. Finally, add the almond meal and extract to combine.</step>
+		<step n="3">Spread the frangipane evenly into the puff pastry sheets leaving 1 cm from the edges. Arrange the apple slices in a pretty petal pattern.</step>
+		<step n="4">Brush with melted butter and sprinkle with the extra sugar. Bake for about <time min="20" max="25" unit="min">20-25 minutes</time> till the pastry is puffed and golden around the edges.</step>
+		<step n="5">Drizzle with honey and serve with a dollop of heavy cream (double cream).</step>
+	</instructionList>
+	<commentList>
+		<comment>
+			The sweet frangipane filling with almonds is a lovely addition and really brings these little tarts to a whole new flavour level. 
+			<by>Shibani (Pearlsofeast)</by>
+		</comment>
+	</commentList>
+</recipe>
