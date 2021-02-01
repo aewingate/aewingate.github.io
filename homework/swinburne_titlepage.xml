@@ -26,6 +26,6 @@
         <lb/>
         <publisher rendition="#red #expanded">Chatto &amp; Windus</publisher>
         <lb/>
-        <docDate when="1904" rendition="#small"/>
+        <docDate when="1904" rendition="#small">1904</docDate>
     </docImprint>  
 </titlePage>
