@@ -1,3 +1,7 @@
+@font-face {
+	font-family: EspinosaNovaReg;
+	src: url("/fonts/EspinosaNova-Reg.otf") format("opentype");
+}
 [rendition ~= "#center"] {
 	text-align: center;
 }
@@ -52,4 +56,7 @@ titlePage {
 }
 lb {
 	line-height: 1;
+}
+publisher {
+	font-family: EspinosaNovaReg;
 }
