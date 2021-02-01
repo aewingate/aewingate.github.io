@@ -1,10 +1,10 @@
 @font-face {
 	font-family: EspinosaNovaReg;
-	src: url("/fonts/EspinosaNova-Regular.otf") format("opentype");
+	src: url("/css/Estudio CH - EspinosaNova-Regular.otf") format("opentype");
 }
 @font-face {
 	font-family: GoudyStM;
-	src: url("/fonts/GoudyStM.otf") format("opentype");
+	src: url("/css/GoudyStM.otf") format("opentype");
 }
 [rendition ~= "#center"] {
 	text-align: center;
