@@ -8,7 +8,7 @@
 }
 * {
 	display: block;
-	word-spacing: 5px;
+	word-spacing: 10px;
 	font-size: 100%;
 	font-kerning: normal;
 	font-weight: 600;
@@ -75,4 +75,8 @@ titlePage {
 publisher {
 	font-family: 'EspinosaNovaReg';
 	word-spacing: 10px;
+}
+
+docDate[rendition="#small"] {
+	font-size: 100%;
 }
