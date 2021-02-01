@@ -6,6 +6,9 @@
 	font-family: GoudyStM;
 	src: url("/css/GoudyStM.otf") format("opentype");
 }
+* {
+	display: block;
+}
 [rendition ~= "#center"] {
 	text-align: center;
 }
@@ -40,7 +43,6 @@
 }
 
 space[quantity="1"] {
-	display: block;
 	line-height: 1;
 }
 
