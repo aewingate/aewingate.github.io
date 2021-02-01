@@ -8,9 +8,11 @@
 }
 * {
 	display: block;
-	word-spacing: 15px;
+	word-spacing: 10px;
 	font-size: 100%;
 	font-kerning: normal;
+	font-weight: 600;
+	font-family: 'GoudyStM';
 }
 [rendition ~= "#center"] {
 	text-align: center;
@@ -22,7 +24,6 @@
 
 [rendition ~= "#red"] {
 	color: rgb(255, 0, 0);
-    font-weight: 600;
 }
 
 [rendition ~= "#expanded"] {
@@ -32,22 +33,20 @@
 [rendition ~= "#xx-large"] {
 	font-size: 150%;
 	word-spacing: 5px;
-	font-weight: 600;
 }
 
 [rendition ~= "#x-large"] {
 	font-size: 130%;
 	word-spacing: 10px;
-	font-weight: 600;
 }
 
 [rendition ~= "#large"] {
-	font-size: 120%;
+	font-size: 115%;
     word-spacing: 10px;
 }
 
 [rendition ~= "#small"] {
-	font-size: 60%;
+	font-size: 70%;
 
 }
 
@@ -76,7 +75,4 @@ titlePage {
 publisher {
 	font-family: 'EspinosaNovaReg';
 	word-spacing: 10px;
-}
-docTitle {
-	font-family: 'GoudyStM';
 }
