@@ -43,19 +43,19 @@
 }
 
 space[quantity="1"] {
-	line-height: 1;
+	line-height: 10px;
 }
 
 space[quantity="3"] {
-	line-height: 3;
+	line-height: 30px;
 }
 
 space[quantity="4"] {
-	line-height: 4;
+	line-height: 40px;
 }
 
 space[quantity="5"] {
-	line-height: 5;
+	line-height: 50px;
 }
 
 titlePage {
