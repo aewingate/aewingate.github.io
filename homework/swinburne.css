@@ -24,15 +24,15 @@
 }
 
 [rendition ~= "#xx-large"] {
-
+	font-size: 300%;
 }
 
 [rendition ~= "#x-large"] {
-
+	font-size: 200%;
 }
 
 [rendition ~= "#large"] {
-
+	font-size: 150%;
 }
 
 [rendition ~= "#small"] {
@@ -59,7 +59,7 @@ titlePage {
 	background-color: #F0E5D2;
 }
 lb {
-	line-height: 1;
+	line-height: 20px;
 }
 publisher {
 	font-family: 'EspinosaNovaReg';
