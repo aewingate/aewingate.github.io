@@ -55,13 +55,13 @@ space[quantity="1"] {
 	min-height: 1em;
 }
 space[quantity="3"] {
-	min-height: 3em;
-}
-space[quantity="4"] {
 	min-height: 4em;
 }
+space[quantity="4"] {
+	min-height: 5em;
+}
 space[quantity="5"] {
-	min-height: 6em;
+	min-height: 7.7em;
 }
 
 titlePage {
