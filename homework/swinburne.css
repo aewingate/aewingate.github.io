@@ -1,6 +1,6 @@
 @font-face {
 	font-family: EspinosaNovaReg;
-	src: url("/fonts/EspinosaNova-Reg.otf") format("opentype");
+	src: url("/fonts/EspinosaNova-Regular.otf") format("opentype");
 }
 [rendition ~= "#center"] {
 	text-align: center;
