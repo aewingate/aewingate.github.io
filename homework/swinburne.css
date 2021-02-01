@@ -39,28 +39,26 @@
 
 }
 
-[quantity="1"] {
+space[quantity="1"] {
 	line-height: 1;
 }
 
-[quantity="3"] {
+space[quantity="3"] {
 	line-height: 3;
 }
 
-[quantity="4"] {
+space[quantity="4"] {
 	line-height: 4;
 }
 
-[quantity="5"] {
+space[quantity="5"] {
 	line-height: 5;
 }
 
 titlePage {
 	background-color: #F0E5D2;
 }
-lb {
-	line-height: 20px;
-}
+
 publisher {
 	font-family: 'EspinosaNovaReg';
 }
