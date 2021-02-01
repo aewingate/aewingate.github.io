@@ -1,0 +1,52 @@
+[rendition ~= "#center"] {
+	text-align: center;
+}
+
+[rendition ~= "#uppercase"] {
+	text-transform: uppercase;
+}
+
+[rendition ~= "#red"] {
+	color: rgb(255, 0, 0);
+
+}
+
+[rendition ~= "#expanded"] {
+	letter-spacing: 3px;
+}
+
+[rendition ~= "#xx-large"] {
+
+}
+
+[rendition ~= "#x-large"] {
+
+}
+
+[rendition ~= "#large"] {
+
+}
+
+[rendition ~= "#small"] {
+
+}
+
+[quantity="1"] {
+	line-height: 1;
+}
+
+[quantity="3"] {
+	line-height: 3;
+}
+
+[quantity="4"] {
+	line-height: 4;
+}
+
+[quantity="5"] {
+	line-height: 5;
+}
+
+titlePage {
+	background-color: #F0E5D2;
+}
