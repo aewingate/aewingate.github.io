@@ -8,6 +8,9 @@
 }
 * {
 	display: block;
+	word-spacing: 15px;
+	font-size: 100%;
+	font-kerning: normal;
 }
 [rendition ~= "#center"] {
 	text-align: center;
@@ -19,7 +22,7 @@
 
 [rendition ~= "#red"] {
 	color: rgb(255, 0, 0);
-
+    font-weight: 600;
 }
 
 [rendition ~= "#expanded"] {
@@ -27,43 +30,52 @@
 }
 
 [rendition ~= "#xx-large"] {
-	font-size: 300%;
+	font-size: 150%;
+	word-spacing: 5px;
+	font-weight: 600;
 }
 
 [rendition ~= "#x-large"] {
-	font-size: 200%;
+	font-size: 130%;
+	word-spacing: 10px;
+	font-weight: 600;
 }
 
 [rendition ~= "#large"] {
-	font-size: 150%;
+	font-size: 120%;
+    word-spacing: 10px;
 }
 
 [rendition ~= "#small"] {
+	font-size: 60%;
 
 }
+
 
 space[quantity="1"] {
-	line-height: 10px;
+	min-height: 1em;
 }
-
 space[quantity="3"] {
-	line-height: 30px;
+	min-height: 3em;
 }
-
 space[quantity="4"] {
-	line-height: 40px;
+	min-height: 4em;
 }
-
 space[quantity="5"] {
-	line-height: 50px;
+	min-height: 6em;
 }
 
 titlePage {
 	background-color: #F0E5D2;
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 15%;
 }
 
 publisher {
 	font-family: 'EspinosaNovaReg';
+	word-spacing: 10px;
 }
 docTitle {
 	font-family: 'GoudyStM';
