@@ -12,10 +12,11 @@ body {
     font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
-    font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
+     font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size: 1.4em;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -27,6 +28,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #8c0900;
 }
 h1 {
     font-size: 3em;
