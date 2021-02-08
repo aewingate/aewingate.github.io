@@ -1,3 +1,7 @@
+@font-face {
+	font-family: EspinosaNovaReg;
+	src: url("Estudio CH - EspinosaNova-Regular.otf") format("opentype");
+	}
 body {
     margin: 60px auto;
     width: 70%;
@@ -46,6 +50,7 @@ th {
 
 td {
 	font-size: 1.2em;
+	font-family: 'EspinosaNovaReg';
 }
 
 ul.posts { 
