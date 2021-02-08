@@ -9,6 +9,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
     font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
