@@ -50,14 +50,14 @@ h3 {
     line-height: .8em;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
     font-family:'Epoca Classic Light';
 }
 ul {
 	list-style-type: disc;
-    color: #080080;
+    color: #333;
 }
 li {
     font-size: 1.2em;
