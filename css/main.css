@@ -2,12 +2,16 @@
 	font-family: EspinosaNovaReg;
 	src: url("Estudio CH - EspinosaNova-Regular.otf") format("opentype");
 	}
+	@font-face {
+	font-family: Epoca Classic Light;
+	src: url("EpoClassic-Lig.otf") format("opentype");
+	}
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -25,12 +29,13 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family:'Epoca Classic Light';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -46,11 +51,12 @@ tr {
 
 th {
 	font-size: 1.3em;
+	font-family: 'EspinosaNovaReg';
 }
 
 td {
 	font-size: 1.2em;
-	font-family: 'EspinosaNovaReg';
+	font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
 }
 
 ul.posts { 
