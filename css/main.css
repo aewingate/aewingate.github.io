@@ -58,21 +58,26 @@ footer {
     font-size: .8em;
 }
 table {
-	
-}
-
-tr {
-	
+	border-collapse: collapse;
 }
 
 th {
-	font-size: 1.3em;
+	font-size: 1.6em;
 	font-family: 'EspinosaNovaReg';
+    text-align: left;
+    border-bottom: 2px solid black;
+    padding: 10px;
+    color: #bd1300;
 }
 
 td {
 	font-size: 1.2em;
 	font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
+    border-bottom: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 ul.posts { 
