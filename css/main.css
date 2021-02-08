@@ -44,15 +44,23 @@ h2 {
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 1.7em;
     font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
     color: #bd1300;
+    line-height: .8em;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
     font-family:'Epoca Classic Light';
+}
+ul {
+	list-style-type: disc;
+    color: #080080;
+}
+li {
+    font-size: 1.2em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
