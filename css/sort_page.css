@@ -1,0 +1,15 @@
+@font-face {
+	font-family: EspinosaNovaReg;
+	src: url("/css/Estudio CH - EspinosaNova-Regular.otf") format("opentype");
+	}
+body{
+	font-family: 'EspinosaNovaReg';
+}
+nav.menu{}
+nav.sidebar{}
+ul{}
+li{list-style-type: none}
+li.sidebar{list-style-type: none}
+a{}
+h1{}
+h2{}
