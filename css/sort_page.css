@@ -2,6 +2,10 @@
 	font-family: EspinosaNovaReg;
 	src: url("/css/Estudio CH - EspinosaNova-Regular.otf") format("opentype");
 	}
+@font-face {
+	font-family: OpenSans;
+	src: url("/css/OpenSans-Regular.ttf") format("truetype");
+	}
 
 body{
 	font-family: 'EspinosaNovaReg';
@@ -22,21 +26,24 @@ div.sidebar{}
 ul.sidebar{list-style-type: none;
 margin: 0;
 padding: 0;
-width: 30%;
+width: 25%;
   height: 100%; /* Full height */
-  position: fixed; /* Make it stick, even on scroll */
-  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+float: left;
 }
 li.sidebar{display: block;
 text-align: center;}
 div.result{
-	display: block;
+	margin-left: 30%;
 }
-ul.result{}
-li.result{list-style-type: none}
+ul.result{margin-top: 0;}
+li.result{font-family: 'OpenSans';
+font-size: 1.1em;}
 a{}
+[href=top]{color: green;}
 h1{
 text-align: right;
-font-size: 5em;
+font-size: 4em;
 }
-h2{}
+h2{color: #C00000;
+font-size: 2em;
+margin-bottom: 5px;}
