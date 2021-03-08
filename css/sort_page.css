@@ -2,8 +2,10 @@
 	font-family: EspinosaNovaReg;
 	src: url("/css/Estudio CH - EspinosaNova-Regular.otf") format("opentype");
 	}
+
 body{
 	font-family: 'EspinosaNovaReg';
+	background-color: #F4EEE4;
 }
 nav.menu{}
 nav.sidebar{}
