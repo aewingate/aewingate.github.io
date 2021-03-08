@@ -26,7 +26,8 @@ width: 30%;}
 li.sidebar{display: block;}
 
 ul.result{}
-li.result{list-style-type: none}
+li.result{list-style-type: none;
+font-family: 'OpenSans';}
 a{}
 h1{
 text-align: right;
