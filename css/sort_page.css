@@ -7,7 +7,12 @@ body{
 	font-family: 'EspinosaNovaReg';
 	background-color: #F4EEE4;
 }
-nav.menu{}
+nav.menu{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
 nav.sidebar{}
 ul{}
 li{list-style-type: none}
