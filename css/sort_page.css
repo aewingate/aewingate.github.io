@@ -8,15 +8,28 @@ body{
 	background-color: #F4EEE4;
 }
 nav.menu{
+
+}
+
+ul.menu{}
+li.menu{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	display: inline;
+	display: inline-block;
 }
 nav.sidebar{}
-ul{}
-li{list-style-type: none}
-li.sidebar{list-style-type: none}
+ul.sidebar{list-style-type: none;
+margin: 0;
+padding: 0;
+width: 30%;}
+li.sidebar{display: block;}
+
+ul.result{}
+li.result{list-style-type: none}
 a{}
-h1{}
+h1{
+text-align: right;
+font-size: 5em;
+}
 h2{}
