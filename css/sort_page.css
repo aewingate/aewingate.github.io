@@ -18,16 +18,22 @@ li.menu{
 	padding: 0;
 	display: inline-block;
 }
-nav.sidebar{}
+div.sidebar{}
 ul.sidebar{list-style-type: none;
 margin: 0;
 padding: 0;
-width: 30%;}
-li.sidebar{display: block;}
-
+width: 30%;
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+li.sidebar{display: block;
+text-align: center;}
+div.result{
+	display: block;
+}
 ul.result{}
-li.result{list-style-type: none;
-font-family: 'OpenSans';}
+li.result{list-style-type: none}
 a{}
 h1{
 text-align: right;
