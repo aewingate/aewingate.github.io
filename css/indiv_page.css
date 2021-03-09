@@ -10,11 +10,12 @@
 body{
 	font-family: 'OpenSans';
 	background-color: #F4EEE4;
+	padding-bottom: 5%;
 }div.menu{ float:right;
 	margin-right: 5%;
 
 }
-div.header{padding-bottom: 50px;
+div.header{padding-bottom: 130px;
 width: 100%;}
 ul.menu{}
 li.menu{
@@ -29,6 +30,7 @@ li.menu{
 	font-size: 1.6em;
 	font-weight: 600;
 	border-left: 3px solid #C00000;
+	color: #000000;
 }
 h1.logo{text-align: left;
 float: left;
@@ -36,3 +38,29 @@ font-size: 2.5em;
 color: #C00000;
 padding-left: 3%;
 font-family: 'EspinosaNovaReg';}
+h1{padding-left: 3%;
+font-family: 'EspinosaNovaReg';
+font-size: 2.5em;}
+table{
+	padding-left: 3%;
+	vertical-align: top;
+	padding-right: 5%;
+}
+td{
+	padding-top: 5px;
+	vertical-align: top;	
+}
+h2{
+	margin: 0;
+	font-size: 1.4em;
+
+	padding-bottom: 5px;
+}
+p{
+	font-size: 1.2em;
+	margin: 0;
+	padding-right: 40px;
+	padding-bottom: 15px;
+}
+a{text-decoration: none;
+color: #C00000;}
