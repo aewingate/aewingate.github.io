@@ -58,7 +58,8 @@ padding-left: 18px;
 
 li.result{font-family: 'OpenSans';
 font-size: 1.1em;
-line-height: 1.6em;}
+line-height: 1.4em;
+padding-bottom: .3em;}
 
 a{text-decoration: none;
 color: #000000;}
