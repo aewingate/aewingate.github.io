@@ -63,6 +63,7 @@ padding-bottom: .3em;}
 
 a{text-decoration: none;
 color: #000000;}
+a:hover{color: #960000;}
 h1.logo{text-align: left;
 float: left;
 font-size: 2.5em;
