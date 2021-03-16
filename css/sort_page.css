@@ -1,14 +1,11 @@
-@font-face {
-	font-family: EspinosaNovaReg;
-	src: url("/css/Estudio CH - EspinosaNova-Regular.otf") format("opentype");
-	}
+
 @font-face {
 	font-family: OpenSans;
 	src: url("/css/OpenSans-Regular.ttf") format("truetype");
 	}
 
 body{
-	font-family: 'EspinosaNovaReg';
+	font-family: 'Book Antiqua';
 	background-color: #F4EEE4;
 }
 div.menu{ float:right;
