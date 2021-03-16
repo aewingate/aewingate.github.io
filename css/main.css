@@ -1,7 +1,4 @@
-@font-face {
-	font-family: EspinosaNovaReg;
-	src: url("Estudio CH - EspinosaNova-Regular.otf") format("opentype");
-	}
+
 	@font-face {
 	font-family: Epoca Classic Light;
 	src: url("EpoClassic-Lig.otf") format("opentype");
@@ -12,7 +9,7 @@ body {
     font-family:'Epoca Classic Light', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
-     font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
+     font-family:'Book Antiqua', 'Garamond', 'Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -33,19 +30,19 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
+    font-family:'Book Antiqua', 'Garamond', 'Serif';
     color: #bd1300;
 }
 
 h2 {
     font-size: 2.5em;
-    font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
+    font-family:'Book Antiqua', 'Garamond', 'Serif';
     color: #bd1300;
 }
 
 h3 {
     font-size: 1.7em;
-    font-family:'EspinosaNovaReg', 'Garamond', 'Serif';
+    font-family:'Book Antiqua', 'Garamond', 'Serif';
     color: #bd1300;
     line-height: .8em;
 }
@@ -72,7 +69,7 @@ table {
 
 th {
 	font-size: 1.6em;
-	font-family: 'EspinosaNovaReg';
+	font-family: 'Book Antiqua';
     text-align: left;
     border-bottom: 2px solid black;
     padding: 10px;
